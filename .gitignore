@@ -1,0 +1,19 @@
+# Project exclude paths
+/target/
+# Zkompilované soubory
+*.class
+*.jar
+*.war
+
+# Složky s buildem (Maven/Gradle)
+/target/
+/build/
+/out/
+
+# Nastavení IDE (IntelliJ IDEA, Eclipse, VS Code)
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.vscode/
